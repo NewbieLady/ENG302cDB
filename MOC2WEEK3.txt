@@ -8,3 +8,9 @@ Which sentence is not correct?|Although, it is raining, I am going to go to the 
 Is this sentence correct or incorrect? After, I left my house for the airport, I packed my suitcase.|No
 Is this sentence correct or incorrect? I will apply to graduate school in the fall provided that I pass all my classes this semester.|Yes
 Is this sentence correct or incorrect? In the event that there is an emergency, you can call this phone number.|Yes
+Which part of this sentence is a dependent clause? In addition, my boss gave me a week off from work because I have been working so hard.|because I have been working so hard
+Which part of this sentence is a dependent clause? While your parents are visiting you at the hospital, they should have lunch in the cafeteria.|While your parents are visiting you at the hospital
+Is the punctuation correct in this sentence? We didn't go to your party last week, since we never received an invitation to it.|No
+Which of the following are subordinating conjunctions? Choose all that apply.|even though$before$while
+Is this sentence correct or incorrect? Before I go to sleep, I make sure to set my alarm.|Yes
+Is this sentence correct or incorrect? Unless you didn't receive my email, you have no excuse for not attending the meeting.|Yes
