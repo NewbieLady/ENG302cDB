@@ -8,3 +8,9 @@ Can this verb be followed by a noun clause that is reduced to a gerund phrase? m
 Does this verb require a pronoun after it when reducing a noun clause to a gerund? report|Yes, it does when the subjects are different.
 Does this verb require a pronoun after it when reducing a noun clause to a gerund? recommend|No, it never requires a subject.
 Choose the best reduction for this sentence. Jessica mentioned that we should not buy textbooks online.|Jessica mentioned our not buying textbooks online.
+Choose the sentence below that correctly reports this quoted sentence. Tina: "I have so much homework this weekend."|Tina said that she has so much homework this weekend.
+Choose the sentence below that correctly reports this quoted sentence. Bill: "My doctor gave me some medicine."|Bill said that his doctor gave him some medicine.
+Choose the sentence below that correctly reports this quoted sentence. My mother: "You haven't cleaned your room in over a week."|My mom said that I hadn't cleaned my room in over a week.
+Does this verb require a pronoun after it when reducing a noun clause to a gerund? suggest|No, it never requires a pronoun.
+Does this verb require a pronoun after it when reducing a noun clause to a gerund? recollect|Yes, it does when the subjects are different.
+Choose the correct reduction for this sentence. I recommend that we stay home tonight and watch movies.|I recommend our staying home tonight and watching movies.
