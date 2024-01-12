@@ -1,0 +1,10 @@
+Can the adverb clause in this sentence be reduced? After the game starts, we can get some soda and popcorn.|No
+Can the adverb clause in this sentence be reduced? Before my new job starts, I need to buy a suit and some shoes.|No
+Can the adverb clause in this sentence be reduced? Because the baseball player was hot, he took off his shirt.|Yes
+Can the adverb clause in this sentence be reduced? Since my parents are paying for my education, I need to make good grades.|No
+Choose the original adverb clause for the reduced clause in this sentence. While living in Hawaii, my grandmother met several celebrities.|While she was living in Hawaii
+Choose the original adverb clause for the reduced clause in this sentence. Not having any more work to do, I went home early.|Since I didn’t I have any more work to do
+Decide if the reduction is correct for the original sentence. Original: While my father was studying at the university, he met my mother. REDUCTION: While studying at the university, my father met my mother.|YES, this is a correct reduction.
+Decide if the reduction is correct for this sentence. Before I woke up this morning, I received 3 phone calls. REDUCTION: Waking up this morning, I received 3 phone calls.|NO, this is not a correct reduction.
+Decide whether the following adverb clause can be reduced to start with Having + Past Participle. Because the teacher assigned too much homework the night before, she decided to give the students a break the following evening.|Yes—We can start with having + past participle.
+Choose the original adverb clause for the reduced clause in this sentence. Having only one pair of glasses, Fred has to be careful not to lose them.|Because he only has one pair of glasses
