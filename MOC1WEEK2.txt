@@ -10,3 +10,9 @@ Is the grammar correct in the underlined section of the sentence below? By the t
 Is the grammar correct in the underlined section of the sentence below? My computer is broken, so I have been thinking about getting a new one.|correct
 Is the underlined verb in the correct form? A: Why do you look so tired? B: I have been studying all night.|correct
 Is the grammar correct in the underlined section of the sentence below? I fell asleep during the speech because the speaker will have been speaking for two hours.|not correct
+Is the underlined verb in the correct form? The weather have been getting better since last week.|not correct
+Is the underlined verb in the correct form? Our baby has been crying a lot every day. She must be getting a new tooth.|correct
+Is the grammar correct in the underlined section of this sentence? I told my boss that I will have been working as hard as I can every day next week until we finish the project.|Not correct
+Is the grammar correct in the underlined section of the sentence below? She hadn't been feeling well, so we just stayed home and watched TV.|correct
+Is the grammar correct in the underlined section of the sentence below? I don't know what we will have been doing next weekend, but I know it will be fun.|not correct
+Is the grammar correct in the underlined section of the sentence below? After this song ends, I will have been sing for almost an hour.|not correct
