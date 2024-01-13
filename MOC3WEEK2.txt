@@ -14,3 +14,4 @@ Choose the sentence below that correctly reports this quoted sentence. My mother
 Does this verb require a pronoun after it when reducing a noun clause to a gerund? suggest|No, it never requires a pronoun.
 Does this verb require a pronoun after it when reducing a noun clause to a gerund? recollect|Yes, it does when the subjects are different.
 Choose the correct reduction for this sentence. I recommend that we stay home tonight and watch movies.|I recommend our staying home tonight and watching movies.
+Can this verb be followed by a noun clause that is reduced to a gerund phrase? say|No, it cannot be followed by a gerund.
