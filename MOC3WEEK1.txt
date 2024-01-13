@@ -15,3 +15,5 @@ Read the question. Then complete the response with the correct noun clause. "Wha
 Identify which part of speech the underlined noun clause is in the sentence below. Last night, my only concern was whether I would get enough sleep or not.|subject complement
 Read the question. Then complete the response with the correct noun clause. "Did you lock the door when you left the house?" I don't remember _____!|if I locked the door
 Choose the word to complete the sentence correctly. I wonder __________ our new boss will be.|who
+True or false? The word "if" is slightly more formal that the word "whether."|False
+Choose the word to complete the sentence correctly. I understand _________ you had a long day and don't feel like cooking dinner.|that
