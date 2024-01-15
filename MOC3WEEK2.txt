@@ -15,3 +15,4 @@ Does this verb require a pronoun after it when reducing a noun clause to a gerun
 Does this verb require a pronoun after it when reducing a noun clause to a gerund? recollect|Yes, it does when the subjects are different.
 Choose the correct reduction for this sentence. I recommend that we stay home tonight and watch movies.|I recommend our staying home tonight and watching movies.
 Can this verb be followed by a noun clause that is reduced to a gerund phrase? say|No, it cannot be followed by a gerund.
+Choose the best reduction of the noun clause in this sentence. If it is not possible to reduce to an infinitive, choose “not possible.” We agree that you should come visit us next summer.|not possible
