@@ -13,3 +13,6 @@ Decide if the transition is in a correct position in the sentence. A hurricane r
 Choose the sentence that has both correct punctuation and correct meaning.|The earth rotates on a tilt; as a result, different hemispheres experience different seasons.
 Choose the best completion for the sentence. ______________ cleaning my house, I need to go grocery shopping.|In addition to
 Does the following sentence need a comma added or not? Despite ordering the pizza forty-five minutes ago I am still waiting for it.|Yes, a comma is needed.
+Choose the best completion for the sentence. I lost my job _______________ the extra work I did every day for many years.|in spite of
+Is the comma in the correct place in this sentence? In spite of, the cold weather we will have a picnic in the park.|No
+Decide if the transition is in a correct position in the sentence.|John has been trying to improve his diet. To illustrate, recently he has cut out soda, candy, and most food containing sugar.
